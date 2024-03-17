@@ -1,0 +1,9 @@
+# Build derectory
+build/
+
+# Text editor or IDE file
+*.swo
+*.swp
+*.swn
+.vscode/
+.idea/
