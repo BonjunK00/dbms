@@ -1,15 +1,13 @@
 # DBMS Project
 
 ## Description
-This project is a comprehensive implementation of core database management components, including the File Manager, Buffer Manager, Index Manager, Lock Manager, and Transaction Manager. Designed to provide a robust foundation for database operations, this project aims to facilitate efficient data storage, retrieval, concurrency control, and transaction management. Each component is meticulously crafted to ensure high performance and reliability:
+This project is a comprehensive implementation of core database management components, including the File Manager, Buffer Manager, Index Manager, Lock Manager, and Transaction Manager.
 
 - **File Manager**: Handles file storage, allowing the database to efficiently manage disk-based data.
 - **Buffer Manager**: Manages the in-memory cache of database pages to reduce disk I/O operations, enhancing overall system performance.
 - **Index Manager**: Implements indexing mechanisms to speed up data retrieval by maintaining organized data structures.
 - **Lock Manager**: Ensures data consistency and supports concurrent access by managing locks on database objects.
 - **Transaction Manager**: Specialized in detecting deadlocks and resolving them by aborting transactions, thereby maintaining the smooth operation of the database and preventing transaction bottlenecks.
-
-Together, these components form the backbone of a reliable and efficient database system, showcasing advanced techniques in database management and operations.
 
 
 ## Building and Running Instructions
