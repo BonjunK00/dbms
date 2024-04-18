@@ -3,11 +3,11 @@
 ## Description
 This project is a comprehensive implementation of core database management components, including the File Manager, Buffer Manager, Index Manager, Lock Manager, and Transaction Manager.
 
-- **File Manager**: Handles file storage, allowing the database to efficiently manage disk-based data.
-- **Buffer Manager**: Manages the in-memory cache of database pages to reduce disk I/O operations, enhancing overall system performance.
-- **Index Manager**: Implements indexing mechanisms to speed up data retrieval by maintaining organized data structures.
-- **Lock Manager**: Ensures data consistency and supports concurrent access by managing locks on database objects.
-- **Transaction Manager**: Oversees transactions, handling deadlock detection and initiating transaction abortion as necessary.
+- [File Manager](https://github.com/BonjunK00/dbms/blob/master/docs/FileManager.md): Handles file storage, allowing the database to efficiently manage disk-based data.
+- [Buffer Manager](https://github.com/BonjunK00/dbms/blob/master/docs/BufferManager.md): Manages the in-memory cache of database pages to reduce disk I/O operations, enhancing overall system performance.
+- [Index Manager](https://github.com/BonjunK00/dbms/blob/master/docs/IndexManager.md): Implements indexing mechanisms to speed up data retrieval by maintaining organized data structures.
+- [Lock Manager](https://github.com/BonjunK00/dbms/blob/master/docs/LockManager.md): Ensures data consistency and supports concurrent access by managing locks on database objects.
+- [Transaction Manager](https://github.com/BonjunK00/dbms/blob/master/docs/TransactionManager.md): Oversees transactions, handling deadlock detection and initiating transaction abortion as necessary.
 
 
 ## Building and Running Instructions
