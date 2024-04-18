@@ -39,7 +39,7 @@ The executable files generated through the build process will be located in the 
 ### Running the Executables
 To run the generated executables, use the following commands:
 
-- To run the database:
+- To run the database (`main.cc` is currently empty):
 ```
 ./bin/disk_based_db
 ```
