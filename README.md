@@ -9,6 +9,7 @@ This project is a comprehensive implementation of core database management compo
 - [Lock Manager](https://github.com/BonjunK00/dbms/blob/master/docs/LockManager.md): Ensures data consistency and supports concurrent access by managing locks on database objects.
 - [Transaction Manager](https://github.com/BonjunK00/dbms/blob/master/docs/TransactionManager.md): Oversees transactions, handling deadlock detection and initiating transaction abortion as necessary.
 
+![dbms_description_image](https://github.com/BonjunK00/dbms/assets/122672353/a2340848-5419-418f-897b-e17d9ec708c1)
 
 ## Building and Running Instructions
 
