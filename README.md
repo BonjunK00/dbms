@@ -7,7 +7,7 @@ This project is a comprehensive implementation of core database management compo
 - **Buffer Manager**: Manages the in-memory cache of database pages to reduce disk I/O operations, enhancing overall system performance.
 - **Index Manager**: Implements indexing mechanisms to speed up data retrieval by maintaining organized data structures.
 - **Lock Manager**: Ensures data consistency and supports concurrent access by managing locks on database objects.
-- **Transaction Manager**: The Transaction Manager oversees transactions, handling deadlock detection and initiating transaction abortion as necessary.
+- **Transaction Manager**: Oversees transactions, handling deadlock detection and initiating transaction abortion as necessary.
 
 
 ## Building and Running Instructions
